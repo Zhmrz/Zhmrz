@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zhmrz
 - 👀 I’m interested in Python (for now)
-- 🌱 I’m currently learning SQL, Django and Algorithms and Dara Structures
+- 🌱 I’m currently learning Algorithms and Dara Structures, PostgreSQL
 - 💞️ I’m looking to collaborate on IT company
 - 📫 How to reach me: murzin-zhalgas@mail.ru, vk.com/zh.mrzn, instagram.com/zh.mrz
 
